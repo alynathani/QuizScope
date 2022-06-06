@@ -1,7 +1,9 @@
 # QuizScope
 QuizScope is a 3D First-Person-Shooter game I made in 2020.
 
-To play the game, download files and then run 'QuizScope.exe' file.
+My general idea behind the concept of this game is the blending of education and gaming. Essentially, it displays a quiz to players, but to answer a question, the player has to shoot a correctly-coloured balloon which corresponds to the correct answer to the question. There is a point system and contains three themes of questions which the player can choose from.
+
+To play the game, download files and then run the 'QuizScope.exe' file.
 
 Languages and Tools used:
 - Unity 3D
